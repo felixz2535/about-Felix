@@ -1,18 +1,25 @@
 ## About Me
+
 ---
-_HSTAT_
-[felixz2535@hstat.org](mailto:felixz2535@hstat.org)
+***School: HSTAT***
+
+Email: [felixz2535@hstat.org](mailto:felixz2535@hstat.org)  
+
 Bio:
-I live in Brooklyn and attend HSTAT.
-I would spent most of the time at home.
-My hobbies are Anime, Badminton and PC.
+
+
+* I live in Brooklyn and attend HSTAT.  
+* I would spent most of the time at home.  
+* My hobbies are Anime, Badminton and PC.  
+
 _Schedule_:
-    **Pd1**:AP Study Hall / Chemistry Lab
-    **Pd2**:AP Chemistry
-    **Pd3**:SEP11
-    **Pd4**:Spanish 5
-    **Pd5**:Lunch
-    **Pd6**:AP Calculus
-    **Pd7**:English
-    **Pd8**:US History
-    **Pd9**:Gym
+
+1. AP Study Hall / Chemistry Lab
+2. AP Chemistry
+3. SEP11
+4. Spanish 5
+5. Lunch
+6. AP Calculus
+7. English
+8. US History
+9. Gym
