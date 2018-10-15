@@ -6,7 +6,7 @@
 
 Email: [felixz2535@hstat.org](mailto:felixz2535@hstat.org)  
 
-Bio:
+_Bio_:
 
 
 * I live in Brooklyn and attend HSTAT.  
